@@ -1,5 +1,5 @@
 #Practical Numerical Methods with Python
-
+#
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for science and engineering. 
 
 In Fall 2015, the second run of the connected courses, we have these instructors participating:
