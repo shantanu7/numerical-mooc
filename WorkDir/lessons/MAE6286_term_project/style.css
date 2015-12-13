@@ -62,7 +62,7 @@ div.text_cell_render{
     font-weight: 400;    
     font-size: 45pt;
     line-height: 100%;
-    color: rgb(0,51,102);
+    color: rgb(0,0,0);
     margin-bottom: 0.5em;
     margin-top: 0.5em;
     display: block;
@@ -71,7 +71,7 @@ div.text_cell_render{
 .text_cell_render h2 {
     font-family: 'Nixie One', serif;
     font-weight: 400;
-    font-size: 22pt;
+    font-size: 28pt;
     line-height: 100%;
     color: rgb(0,51,102);
     margin-bottom: 0.1em;
